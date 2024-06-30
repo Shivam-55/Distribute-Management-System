@@ -1,0 +1,20 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äŒ¾ÿÿÿÿÿJ$6e333d2e-7776-4b99-98fb-26a79c6bc4d9
+~
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄŞJ$9fd1e4ca-7869-49e6-a497-b75f184ac9af
+~
+java:S6813%"BRemove this field injection and use constructor injection instead.(êæÄŞJ$a347b655-1b02-4933-8def-5987b8f28573
+~
+java:S6813'"BRemove this field injection and use constructor injection instead.(êæÄŞJ$48a6f356-75e2-4fc2-a435-a53462e8a680
+¢
+java:S1128"ZRemove this unused import 'com.example.inventoryservice.Exception.NoSuchRequestException'.(¿ñİîúÿÿÿÿ8‚˜à°ì1J$662cf1cb-50c2-40d5-b64f-ce7cae2c8e68
+¢
+java:S1128"ZRemove this unused import 'com.example.inventoryservice.Exception.NotActiveUserException'.(†¸ŠÆıÿÿÿÿ8‚˜à°ì1J$d9f5c783-b29f-4c3e-ab49-ffecf15d7993
+§
+java:S1128"_Remove this unused import 'com.example.inventoryservice.RequestDto.InventoryUpdateRetailerDto'.(ÀÒ·ùùÿÿÿÿ8ƒ˜à°ì1J$614d9419-7f85-4b1a-a4e8-f81d0321db93
+
+java:S1128"LRemove this unused import 'com.example.inventoryservice.RequestDto.UserDto'.(ÁÉ›®8ƒ˜à°ì1J$5fd130de-f957-480c-8776-271fdfee0453
+’
+java:S1128"ORemove this unused import 'com.example.inventoryservice.customenum.IsApproved'.(“›„á8ƒ˜à°ì1J$ad33184c-c688-493a-a9e6-ade0ab941444
+«
+java:S1128"cRemove this unused import 'com.example.inventoryservice.otherservicecall.ProfileManagementService'.(íÎÏÈùÿÿÿÿ8ƒ˜à°ì1J$dec02490-b60d-4ec6-a340-8f532ffb2fe5

@@ -1,0 +1,35 @@
+
+
+java:S5778P"bRefactor the code of the lambda to have only one invocation possibly throwing a runtime exception.(ßÆÈ±8÷ù¡ì1
+`
+java:S6068R"CRemove this useless "eq(...)" invocation; pass the values directly.(™äš¼8úù¡ì1
+
+java:S5778j"bRefactor the code of the lambda to have only one invocation possibly throwing a runtime exception.(ßÆÈ±8‰ú¡ì1
+`
+java:S6068l"CRemove this useless "eq(...)" invocation; pass the values directly.(™äš¼8‰ú¡ì1
+€
+java:S5778Œ"bRefactor the code of the lambda to have only one invocation possibly throwing a runtime exception.(ßÆÈ±8Šú¡ì1
+a
+java:S6068"CRemove this useless "eq(...)" invocation; pass the values directly.(Ê×ı•8Šú¡ì1
+a
+java:S6068"CRemove this useless "eq(...)" invocation; pass the values directly.(™äš¼8‹ú¡ì1
+…
+java:S5778£"bRefactor the code of the lambda to have only one invocation possibly throwing a runtime exception.(ØàŠ¦úÿÿÿÿ8‹ú¡ì1
+a
+java:S6068¥"CRemove this useless "eq(...)" invocation; pass the values directly.(Ê×ı•8‹ú¡ì1
+a
+java:S6068¦"CRemove this useless "eq(...)" invocation; pass the values directly.(™äš¼8Œú¡ì1
+…
+java:S5778¿"bRefactor the code of the lambda to have only one invocation possibly throwing a runtime exception.(ØàŠ¦úÿÿÿÿ8Œú¡ì1
+a
+java:S6068Ã"CRemove this useless "eq(...)" invocation; pass the values directly.(ÖÓæ•8ú¡ì1
+f
+java:S6068Å"CRemove this useless "eq(...)" invocation; pass the values directly.(ÅÚ‡·ûÿÿÿÿ8ú¡ì1
+f
+java:S6068Æ"CRemove this useless "eq(...)" invocation; pass the values directly.(ã²ºÁúÿÿÿÿ8ú¡ì1
+a
+java:S6068Ç"CRemove this useless "eq(...)" invocation; pass the values directly.(Ê×ı•8ú¡ì1
+…
+java:S5778Ô"bRefactor the code of the lambda to have only one invocation possibly throwing a runtime exception.(ØàŠ¦úÿÿÿÿ8ú¡ì1
+a
+java:S6068Ö"CRemove this useless "eq(...)" invocation; pass the values directly.(Ê×ı•8ú¡ì1

@@ -1,0 +1,5 @@
+
+f	java:S106J"+Replace this use of System.out by a logger.(γϊ‘J$f8e3a7a4-28e5-4f50-90a6-2c318572f32d
+t
+java:S1874J"8Remove this use of "getRawStatusCode"; it is deprecated.(γϊ‘J$ec96440b-7151-44a4-a450-5ed75bed24d7
+k	java:S106O"+Replace this use of System.out by a logger.(°ά¦ούÿÿÿÿJ$076d09dd-5b44-444f-9f9c-a5e6b5f543c7

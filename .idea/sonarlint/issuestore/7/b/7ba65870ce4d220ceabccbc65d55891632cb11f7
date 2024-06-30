@@ -1,0 +1,6 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”Õ˜›8åõÊ–ì1J$dcfea067-a952-4bf3-ace7-1f4f22431d44
+§
+java:S1128"_Remove this unused import 'com.example.inventoryservice.RequestDto.InventoryUpdateRetailerDto'.(ÀÒ·ùùÿÿÿÿ8ñ®ÌÇì1J$de3e8f20-8af1-4581-9fd0-dd2e563c7eb6
+w
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëÝüÿÿÿÿ8éõÊ–ì1J$fa576ff3-9277-4a3f-a7c5-bd5fdff232a7

@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e393ae3-b0d3-4616-a436-395ac37fcc8a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="JavaCoverageOptionsProvider">
+    <option name="myExcludeAnnotationPatterns">
+      <list>
+        <option value="*Generated*" />
+        <option value="com.impetus.dms.utils.ExcludeFromCodeCoverage" />
+      </list>
+    </option>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2dwY3Eu9Ye0ITy2kYGbLayxxad1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ApiGatewayApplication.executor": "Run",
+    "Application.ComplainserviceApplication.executor": "Run",
+    "Application.DmsServiceRegistryApplication.executor": "Run",
+    "Application.InventoryServiceApplication.executor": "Run",
+    "Application.InventoryserviceApplication.executor": "Coverage",
+    "Application.RequestforinventoryserviceApplication.executor": "Run",
+    "Application.UserServiceApplication.executor": "Run",
+    "Application.UserserviceApplication.executor": "Run",
+    "JUnit.ForgotPasswordImpDiffblueTest.executor": "Coverage",
+    "JUnit.ForgotPasswordImpTest.executor": "Run",
+    "JUnit.ForgotPasswordTest (1).executor": "Coverage",
+    "JUnit.ForgotPasswordTest.executor": "Coverage",
+    "JUnit.ForgotPasswordTest.testRecoverPassword_InvalidInput.executor": "Run",
+    "JUnit.ForgotPasswordTest.testResetPassword_InvalidInput.executor": "Run",
+    "JUnit.ForgotPasswordTest.testVerifyOtp_InvalidInput.executor": "Run",
+    "JUnit.LocationDiffblueTest.executor": "Coverage",
+    "JUnit.LocationDiffblueTest.testGetPinCodesByCity.executor": "Run",
+    "JUnit.RetailerConnectionImpDiffblueTest.executor": "Coverage",
+    "JUnit.RoleInfoServiceImpDiffblueTest.executor": "Coverage",
+    "JUnit.UserserviceApplicationTests.executor": "Coverage",
+    "JUnit.controller in userservice.executor": "Coverage",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Manal.Choudhary/Impetus Technologies/Shivam S. Choudhary - DMS/DMS_Testing_Phase 5/inventoryservice/src/main/resources",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "coverage"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Manal.Choudhary\Impetus Technologies\Shivam S. Choudhary - DMS\DMS_Testing_Phase 5\inventoryservice\src\main\resources" />
+      <recent name="C:\Users\Manal.Choudhary\Impetus Technologies\Shivam S. Choudhary - DMS\DMS_Testing_Phase 5\requestforinventoryservice\src\main\java\com\impetus\dms\utils" />
+      <recent name="C:\Users\Manal.Choudhary\Impetus Technologies\Shivam S. Choudhary - DMS\DMS_Testing_Phase 5\requestforinventoryservice\src\main\java\com\impetus\dms" />
+      <recent name="C:\Users\Manal.Choudhary\Impetus Technologies\Shivam S. Choudhary - DMS\DMS_Testing_Phase 5\requestforinventoryservice\src\main\resources" />
+      <recent name="C:\Users\Manal.Choudhary\Impetus Technologies\Shivam S. Choudhary - DMS\DMS_Testing_Phase 5\profilemangementservice\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.impetus.dms" />
+      <recent name="com.impetus.dms.controller" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.impetus.dms.config" />
+      <recent name="com.example.inventoryservice.config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ForgotPasswordTest">
+    <configuration name="ForgotPasswordImpTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="userservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.impetus.dms.serviceImp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.impetus.dms.serviceImp" />
+      <option name="MAIN_CLASS_NAME" value="com.impetus.dms.serviceImp.ForgotPasswordImpTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForgotPasswordTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="userservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.impetus.dms.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.impetus.dms.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.impetus.dms.controller.ForgotPasswordTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RetailerConnectionImpDiffblueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="userservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.impetus.dms.serviceImp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.impetus.dms.serviceImp" />
+      <option name="MAIN_CLASS_NAME" value="com.impetus.dms.serviceImp.RetailerConnectionImpDiffblueTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoleInfoServiceImpDiffblueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="userservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.impetus.dms.serviceImp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.impetus.dms.serviceImp" />
+      <option name="MAIN_CLASS_NAME" value="com.impetus.dms.serviceImp.RoleInfoServiceImpDiffblueTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserserviceApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="userservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.impetus.dms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.impetus.dms" />
+      <option name="MAIN_CLASS_NAME" value="com.impetus.dms.UserserviceApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Write tests for class ForgotPassword" type="com.diffblue.cover.write-tests-run-configuration" factoryName="com.diffblue.cover.write-tests-run-configuration">
+      <module name="userservice" />
+      <settings run-config-name="Write tests for class ForgotPassword" include-system-env-vars="true" skeleton-tests-only="false">
+        <jvm-args />
+        <selection-scope>class</selection-scope>
+        <selected-element key="com.impetus.dms.controller.ForgotPassword" />
+      </settings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Write tests for class RoleInfoServiceImp" type="com.diffblue.cover.write-tests-run-configuration" factoryName="com.diffblue.cover.write-tests-run-configuration">
+      <module name="userservice" />
+      <settings run-config-name="Write tests for class RoleInfoServiceImp" include-system-env-vars="true" skeleton-tests-only="false">
+        <jvm-args />
+        <selection-scope>class</selection-scope>
+        <selected-element key="com.impetus.dms.serviceImp.RoleInfoServiceImp" />
+      </settings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Write tests for class UserInfo" type="com.diffblue.cover.write-tests-run-configuration" factoryName="com.diffblue.cover.write-tests-run-configuration">
+      <module name="userservice" />
+      <settings run-config-name="Write tests for class UserInfo" include-system-env-vars="true" skeleton-tests-only="false">
+        <jvm-args />
+        <selection-scope>class</selection-scope>
+        <selected-element key="com.impetus.dms.controller.UserInfo" />
+      </settings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ForgotPasswordTest" />
+        <item itemvalue="JUnit.ForgotPasswordImpTest" />
+        <item itemvalue="JUnit.UserserviceApplicationTests" />
+        <item itemvalue="JUnit.RoleInfoServiceImpDiffblueTest" />
+        <item itemvalue="JUnit.RetailerConnectionImpDiffblueTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.21-corretto-11.0.21-4caba194b151-9f4ef98c" />
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e393ae3-b0d3-4616-a436-395ac37fcc8a" name="Changes" comment="" />
+      <created>1710920408128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710920408128</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/requestforinventoryservice/src/main/java/com/impetus/dms/controller/InventoryRequestController.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$UserserviceApplicationTests.ic" NAME="UserserviceApplicationTests Coverage Results" MODIFIED="1712686724997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.dms.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$LocationDiffblueTest.ic" NAME="LocationDiffblueTest Coverage Results" MODIFIED="1712686811655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.dms.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$RoleInfoServiceImpDiffblueTest.ic" NAME="RoleInfoServiceImpDiffblueTest Coverage Results" MODIFIED="1712686880055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.dms.serviceImp.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/dms_till_23rdmarch$InventoryserviceApplication.ic" NAME="InventoryserviceApplication Coverage Results" MODIFIED="1712314569686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.inventoryservice.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$controller_in_userservice.ic" NAME="controller in userservice Coverage Results" MODIFIED="1712684760185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$ForgotPasswordImpDiffblueTest.ic" NAME="ForgotPasswordImpDiffblueTest Coverage Results" MODIFIED="1712686848612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.dms.serviceImp.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$RetailerConnectionImpDiffblueTest.ic" NAME="RetailerConnectionImpDiffblueTest Coverage Results" MODIFIED="1712686865341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.dms.serviceImp.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$ForgotPasswordTest.ic" NAME="ForgotPasswordTest Coverage Results" MODIFIED="1712682111885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.dms.controller.*</FILTER>
+    </SUITE>
+  </component>
+</project>

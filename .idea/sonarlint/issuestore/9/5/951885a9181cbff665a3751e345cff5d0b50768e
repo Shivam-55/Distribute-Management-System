@@ -1,0 +1,13 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹éçJ$e56c3a6b-e2eb-47a6-9632-cd9571e4d5b4
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$3367bd62-4874-4256-affd-e695c31630d6
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$bab1a416-496f-4907-80c4-0a95929bfc91
+	java:S1005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾¨ó³ıÿÿÿÿJ$69917fed-850c-4493-8d8b-ea68a54ad5f9
+
+java:S1128"LRemove this unused import 'com.impetus.dms.Dto.userdto.UserRegistrationDto'.(¿Ë©Ê8¤‹³ì1J$d14eebb0-c471-4afc-8bb1-21969cdb29d5
+’
+java:S1128"ORemove this unused import 'com.impetus.dms.Dto.userdto.UserServiceResponseDto'.(‡æˆÌ8¤‹³ì1J$9fdd89e1-d72e-48ba-a868-d481baadc7e4
+€
+java:S1128"8Remove this unused import 'com.impetus.dms.Entity.User'.(®Ê®ƒøÿÿÿÿ8¤‹³ì1J$9bb89b6d-f6ac-4d1b-a200-0d1e37d8b6b4

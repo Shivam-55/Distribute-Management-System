@@ -1,0 +1,19 @@
+
+”
+java:S1104"YMake INVALID_FIELD a static final constant or non-public and provide accessors if needed.(ÛÑˆ!J$bcfa34e3-a1dd-459b-aead-439c53ac24f4
+—
+java:S1104"VMake NOT_EXISTS a static final constant or non-public and provide accessors if needed.(Ù‘ý¡ýÿÿÿÿJ$9df3f1ff-140f-4b15-9aed-53b8aa6a36ea
+n
+java:S1444"3Make this "public static INVALID_FIELD" field final(ÛÑˆ!J$537ae6a8-7d5c-4735-9208-8a862d23c2c1
+q
+java:S1444"0Make this "public static NOT_EXISTS" field final(Ù‘ý¡ýÿÿÿÿJ$ad7ecc8e-631a-4f0f-bbf0-6cdd74fa82a0
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„ðÕãJ$60e92e80-5731-4cb7-8ecd-d9e659f17850
+“
+java:S3008"XRename this field "INVALID_FIELD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÑˆ!J$7787a964-a390-4194-aa11-cd0d8b210cea
+–
+java:S3008"URename this field "NOT_EXISTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù‘ý¡ýÿÿÿÿJ$9be84034-d283-442f-bdbd-4d23688a6868
+›
+java:S1845"_Rename method "INVALID_FIELD" to prevent any misunderstanding/clash with field "INVALID_FIELD".(Òõ¢åJ$7db95b56-c572-47ca-b8ae-07766cc61402
+v
+java:S1118":Add a private constructor to hide the implicit public one.(ŒìÐÉJ$46bec2cc-5aa1-4f43-80a5-69669a36fe1b
+‰	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òõ¢åJ$98b88463-2d30-4cdf-a389-7929b7c91119

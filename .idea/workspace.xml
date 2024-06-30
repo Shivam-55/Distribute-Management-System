@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_TEST_SOURCES" value="false" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e393ae3-b0d3-4616-a436-395ac37fcc8a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="0" />
+  </component>
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" userTempatePath="" />
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="C:\Users\Manal.Choudhary\Impetus Technologies\Shivam S. Choudhary - DMS\DMS_Testing_Phase 5\Coverage Report\Inventory Service" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JavaCoverageOptionsProvider">
+    <option name="myExcludeAnnotationPatterns">
+      <list>
+        <option value="*Generated*" />
+        <option value="com.impetus.dms.utils.ExcludeFromCodeCoverage" />
+      </list>
+    </option>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2dwY3Eu9Ye0ITy2kYGbLayxxad1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ApiGatewayApplication.executor": "Run",
+    "Application.AuthenticationServiceApplication.executor": "Run",
+    "Application.ComplainserviceApplication.executor": "Run",
+    "Application.DmsServiceRegistryApplication.executor": "Run",
+    "Application.InventoryServiceApplication.executor": "Run",
+    "Application.InventoryserviceApplication.executor": "Coverage",
+    "Application.RequestforinventoryserviceApplication.executor": "Run",
+    "Application.UserServiceApplication.executor": "Run",
+    "Application.UserserviceApplication.executor": "Run",
+    "JUnit.All in complainservice.executor": "Coverage",
+    "JUnit.All in inventoryservice.executor": "Coverage",
+    "JUnit.All in userservice.executor": "Coverage",
+    "JUnit.ApproveRequestControllerDiffblueTest.executor": "Coverage",
+    "JUnit.ApproveRequestControllerTest.executor": "Coverage",
+    "JUnit.ComplainControllerDiffblueTest (1).executor": "Run",
+    "JUnit.ComplainControllerDiffblueTest.executor": "Coverage",
+    "JUnit.ComplainControllerTest.executor": "Coverage",
+    "JUnit.ComplainServiceImpDiffblueTest.executor": "Coverage",
+    "JUnit.ComplainServiceImpTest.executor": "Coverage",
+    "JUnit.ComplainServiceImpTest.testFillComplainForm.executor": "Coverage",
+    "JUnit.ComplainServiceImpTest.testFillComplainForm_WhenUserIsNotApproved.executor": "Run",
+    "JUnit.ComplainserviceApplicationTest.executor": "Coverage",
+    "JUnit.ComplainserviceApplicationTests.executor": "Coverage",
+    "JUnit.FeedbackControllerDiffblueTest.executor": "Coverage",
+    "JUnit.FeedbackControllerTest.executor": "Coverage",
+    "JUnit.FeedbackControllerTest.giveConnectionFeedback_Success (1).executor": "Run",
+    "JUnit.FeedbackControllerTest.giveConnectionFeedback_Success.executor": "Run",
+    "JUnit.FeedbackControllerTest.testGiveConnectionFeedback_Success.executor": "Run",
+    "JUnit.FeedbackServiceImpDiffblueTest.executor": "Coverage",
+    "JUnit.FeedbackServiceImpTest.executor": "Coverage",
+    "JUnit.FeedbackServiceImpTest.testFillFeedbackFormForDistributor.executor": "Run",
+    "JUnit.FeedbackServiceImpTest.testFillFeedbackForm_WithUserRoleAsDistributor.executor": "Coverage",
+    "JUnit.ForgotPasswordImpDiffblueTest.executor": "Coverage",
+    "JUnit.ForgotPasswordImpTest.executor": "Coverage",
+    "JUnit.ForgotPasswordTest (1).executor": "Coverage",
+    "JUnit.ForgotPasswordTest.executor": "Coverage",
+    "JUnit.ForgotPasswordTest.testRecoverPassword_InvalidInput.executor": "Run",
+    "JUnit.ForgotPasswordTest.testResetPassword_InvalidInput.executor": "Run",
+    "JUnit.ForgotPasswordTest.testVerifyOtp_InvalidInput.executor": "Run",
+    "JUnit.InventoryControllerDiffblueTest.executor": "Run",
+    "JUnit.InventoryControllerTest.executor": "Coverage",
+    "JUnit.InventoryControllerTest.givenValidInventoryData_whenAddInventory_thenSuccess.executor": "Coverage",
+    "JUnit.InventoryControllerTest.testAddInventory.executor": "Run",
+    "JUnit.InventoryControllerTest.testAddInventory_Success.executor": "Coverage",
+    "JUnit.InventoryRequestControllerDiffblueTest.executor": "Coverage",
+    "JUnit.InventoryRequestControllerTest.executor": "Coverage",
+    "JUnit.InventoryRequestServiceImpTest.executor": "Coverage",
+    "JUnit.InventoryRequestServiceImpTest.testRaiseInventoryRequest_Success.executor": "Coverage",
+    "JUnit.InventoryServiceImplDiffblueTest.executor": "Coverage",
+    "JUnit.InventoryServiceImplTest.executor": "Coverage",
+    "JUnit.InventoryServiceImplTest.testFindInventoryDtoByName3.executor": "Run",
+    "JUnit.InventoryServiceImplTest.testInventoryToDto.executor": "Coverage",
+    "JUnit.InventoryserviceApplicationTests.executor": "Coverage",
+    "JUnit.LocationDiffblueTest.executor": "Coverage",
+    "JUnit.LocationDiffblueTest.testGetPinCodesByCity.executor": "Run",
+    "JUnit.OrderHistoryServiceImpDiffblueTest.executor": "Coverage",
+    "JUnit.RetailerConnectionDiffblueTest.executor": "Coverage",
+    "JUnit.RetailerConnectionImpDiffblueTest.executor": "Coverage",
+    "JUnit.RetailerConnectionImpTest.executor": "Coverage",
+    "JUnit.RoleInfoServiceImpDiffblueTest.executor": "Coverage",
+    "JUnit.RoleInfoServiceImpTest.executor": "Coverage",
+    "JUnit.StockAvailableServiceImpDiffblueTest.executor": "Coverage",
+    "JUnit.StockAvailableServiceImpTest.executor": "Coverage",
+    "JUnit.StockAvailableServiceImpTest.testViewXStock2.executor": "Coverage",
+    "JUnit.StockAvailableServiceImpTest.testViewXStock3.executor": "Coverage",
+    "JUnit.StockControllerTest.executor": "Coverage",
+    "JUnit.StockControllerTest.testViewAllAvailableStock.executor": "Coverage",
+    "JUnit.UserInfoDiffblueTest.executor": "Coverage",
+    "JUnit.UserInfoServiceImplTest.executor": "Coverage",
+    "JUnit.UserInfoTest.executor": "Coverage",
+    "JUnit.UserserviceApplicationTests.executor": "Coverage",
+    "JUnit.com.example.inventoryservice in inventoryservice.executor": "Coverage",
+    "JUnit.com.impetus.complainservice.Controller in complainservice.executor": "Coverage",
+    "JUnit.complainservice in complainservice.executor": "Coverage",
+    "JUnit.controller in complainservice.executor": "Coverage",
+    "JUnit.controller in inventoryservice.executor": "Coverage",
+    "JUnit.controller in userservice.executor": "Coverage",
+    "JUnit.inventoryservice in inventoryservice.executor": "Coverage",
+    "JUnit.serviceImp in complainservice.executor": "Coverage",
+    "JUnit.serviceImp in inventoryservice.executor": "Coverage",
+    "JUnit.serviceImp in userservice.executor": "Coverage",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Manal.Choudhary/Impetus Technologies/Shivam S. Choudhary - DMS/DMS_Testing_Phase 5/Coverage Report/Inventory Service",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Manal.Choudhary\Impetus Technologies\Shivam S. Choudhary - DMS\DMS_Testing_Phase 5\inventoryservice\src\main\resources" />
+      <recent name="C:\Users\Manal.Choudhary\Impetus Technologies\Shivam S. Choudhary - DMS\DMS_Testing_Phase 5\requestforinventoryservice\src\main\java\com\impetus\dms\utils" />
+      <recent name="C:\Users\Manal.Choudhary\Impetus Technologies\Shivam S. Choudhary - DMS\DMS_Testing_Phase 5\requestforinventoryservice\src\main\java\com\impetus\dms" />
+      <recent name="C:\Users\Manal.Choudhary\Impetus Technologies\Shivam S. Choudhary - DMS\DMS_Testing_Phase 5\requestforinventoryservice\src\main\resources" />
+      <recent name="C:\Users\Manal.Choudhary\Impetus Technologies\Shivam S. Choudhary - DMS\DMS_Testing_Phase 5\profilemangementservice\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Manal.Choudhary\Impetus Technologies\Shivam S. Choudhary - DMS\DMS_Testing_Phase 5\Coverage Report" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.impetus.dms" />
+      <recent name="com.impetus.dms.controller" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.impetus.dms.config" />
+      <recent name="com.example.inventoryservice.config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.dms in requestforinventoryservice">
+    <configuration name="All in inventoryservice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inventoryservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.inventoryservice.serviceImp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="com.example.inventoryservice.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in userservice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="userservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.impetus.dms.controller.UserInfoDiffblueTest" />
+          <option name="ENABLED" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="com.impetus.dms.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="com.impetus.dms.serviceImp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in userservice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="userservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.impetus.dms.serviceImp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoleInfoServiceImpTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="userservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.impetus.dms.serviceImp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.impetus.dms.serviceImp" />
+      <option name="MAIN_CLASS_NAME" value="com.impetus.dms.serviceImp.RoleInfoServiceImpTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockAvailableServiceImpTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inventoryservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.inventoryservice.serviceImp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.inventoryservice.serviceImp" />
+      <option name="MAIN_CLASS_NAME" value="com.example.inventoryservice.serviceImp.StockAvailableServiceImpTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockAvailableServiceImpTest.testViewXStock3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inventoryservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.inventoryservice.serviceImp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.inventoryservice.serviceImp" />
+      <option name="MAIN_CLASS_NAME" value="com.example.inventoryservice.serviceImp.StockAvailableServiceImpTest" />
+      <option name="METHOD_NAME" value="testViewXStock3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserInfoDiffblueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="userservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.impetus.dms.controller.UserInfoDiffblueTest" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.impetus.dms.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.impetus.dms.controller.UserInfoDiffblueTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserInfoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="userservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.impetus.dms.controller.UserInfoDiffblueTest" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.impetus.dms.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.impetus.dms.controller.UserInfoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dms in requestforinventoryservice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="requestforinventoryservice" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/requestforinventoryservice/src/test/java/com/impetus/dms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="serviceImp in userservice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="userservice" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/profilemangementservice/src/test/java/com/impetus/dms/serviceImp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Write tests for class ForgotPassword" type="com.diffblue.cover.write-tests-run-configuration" factoryName="com.diffblue.cover.write-tests-run-configuration">
+      <module name="userservice" />
+      <settings run-config-name="Write tests for class ForgotPassword" include-system-env-vars="true" skeleton-tests-only="false">
+        <jvm-args />
+        <selection-scope>class</selection-scope>
+        <selected-element key="com.impetus.dms.controller.ForgotPassword" />
+      </settings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Write tests for class InventoryRequestServiceImp" type="com.diffblue.cover.write-tests-run-configuration" factoryName="com.diffblue.cover.write-tests-run-configuration">
+      <module name="requestforinventoryservice" />
+      <settings run-config-name="Write tests for class InventoryRequestServiceImp" include-system-env-vars="true" skeleton-tests-only="false">
+        <jvm-args />
+        <selection-scope>class</selection-scope>
+        <selected-element key="com.impetus.dms.SeviceImp.InventoryRequestServiceImp" />
+      </settings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Write tests for class RoleInfoServiceImp" type="com.diffblue.cover.write-tests-run-configuration" factoryName="com.diffblue.cover.write-tests-run-configuration">
+      <module name="userservice" />
+      <settings run-config-name="Write tests for class RoleInfoServiceImp" include-system-env-vars="true" skeleton-tests-only="false">
+        <jvm-args />
+        <selection-scope>class</selection-scope>
+        <selected-element key="com.impetus.dms.serviceImp.RoleInfoServiceImp" />
+      </settings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Write tests for class UserInfo" type="com.diffblue.cover.write-tests-run-configuration" factoryName="com.diffblue.cover.write-tests-run-configuration">
+      <module name="userservice" />
+      <settings run-config-name="Write tests for class UserInfo" include-system-env-vars="true" skeleton-tests-only="false">
+        <jvm-args />
+        <selection-scope>class</selection-scope>
+        <selected-element key="com.impetus.dms.controller.UserInfo" />
+      </settings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.All in userservice" />
+      <item itemvalue="JUnit.RoleInfoServiceImpTest" />
+      <item itemvalue="JUnit.dms in requestforinventoryservice" />
+      <item itemvalue="JUnit.serviceImp in userservice" />
+      <item itemvalue="JUnit.StockAvailableServiceImpTest.testViewXStock3" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.dms in requestforinventoryservice" />
+        <item itemvalue="JUnit.All in userservice" />
+        <item itemvalue="JUnit.All in userservice" />
+        <item itemvalue="JUnit.RoleInfoServiceImpTest" />
+        <item itemvalue="JUnit.serviceImp in userservice" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e393ae3-b0d3-4616-a436-395ac37fcc8a" name="Changes" comment="" />
+      <created>1710920408128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710920408128</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.springframework.security:spring-security-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.validation:jakarta.validation-api" />
+    <option featureType="dependencySupport" implementationName="java:com.google.protobuf:protobuf-java" />
+    <option featureType="dependencySupport" implementationName="java:io.projectreactor:reactor-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.data:spring-data-commons" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.cloud:spring-cloud-context" />
+    <option featureType="dependencySupport" implementationName="java:org.hibernate.validator:hibernate-validator" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-webmvc" />
+    <option featureType="dependencySupport" implementationName="java:org.projectlombok:lombok" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.persistence:jakarta.persistence-api" />
+    <option featureType="com.intellij.configurationType" implementationName="com.diffblue.cover.write-tests-run-configuration" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.ws.rs:jakarta.ws.rs-api" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/requestforinventoryservice/src/main/java/com/impetus/dms/controller/InventoryRequestController.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/inventoryservice/src/test/java/com/example/inventoryservice/serviceImp/StockAvailableServiceImpTest.java</url>
+          <line>705</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/profilemangementservice/src/main/java/com/impetus/dms/utils/DecodeText.java</url>
+          <line>68</line>
+          <properties class="com.impetus.dms.utils.DecodeText">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$StockAvailableServiceImpTest_testViewXStock3.ic" NAME="StockAvailableServiceImpTest.testViewXStock3 Coverage Results" MODIFIED="1713347714648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.inventoryservice.serviceImp.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$FeedbackServiceImpTest.ic" NAME="FeedbackServiceImpTest Coverage Results" MODIFIED="1713336655864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.complainservice.serviceImp.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$StockControllerTest.ic" NAME="StockControllerTest Coverage Results" MODIFIED="1713343652496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.inventoryservice.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$InventoryRequestControllerTest.ic" NAME="InventoryRequestControllerTest Coverage Results" MODIFIED="1713261983234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.dms.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$InventoryServiceImplTest_testInventoryToDto.ic" NAME="InventoryServiceImplTest.testInventoryToDto Coverage Results" MODIFIED="1713348066943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.inventoryservice.serviceImp.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$ComplainserviceApplicationTest.ic" NAME="ComplainserviceApplicationTest Coverage Results" MODIFIED="1713266886837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.complainservice.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$ComplainControllerTest.ic" NAME="ComplainControllerTest Coverage Results" MODIFIED="1713341438584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.complainservice.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$com_example_inventoryservice_in_inventoryservice.ic" NAME="com.example.inventoryservice in inventoryservice Coverage Results" MODIFIED="1713346644215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.inventoryservice.serviceImp.*</FILTER>
+      <FILTER>com.example.inventoryservice.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$InventoryServiceImplTest.ic" NAME="InventoryServiceImplTest Coverage Results" MODIFIED="1713348078033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.inventoryservice.serviceImp.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$ComplainControllerDiffblueTest__1_.ic" NAME="ComplainControllerDiffblueTest (1) Coverage Results" MODIFIED="1712900681784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.complainservice.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$FeedbackServiceImpDiffblueTest.ic" NAME="FeedbackServiceImpDiffblueTest Coverage Results" MODIFIED="1712774047078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.complainservice.ServiceImp.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$FeedbackControllerDiffblueTest.ic" NAME="FeedbackControllerDiffblueTest Coverage Results" MODIFIED="1712774015773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.complainservice.Controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$UserInfoTest.ic" NAME="UserInfoTest Coverage Results" MODIFIED="1713348464744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.dms.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$RoleInfoServiceImpTest.ic" NAME="RoleInfoServiceImpTest Coverage Results" MODIFIED="1713348707526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.dms.serviceImp.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$controller_in_userservice.ic" NAME="controller in userservice Coverage Results" MODIFIED="1713348378222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$FeedbackControllerTest_giveConnectionFeedback_Success.ic" NAME="FeedbackControllerTest.giveConnectionFeedback_Success Coverage Results" MODIFIED="1712902829533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.complainservice.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$FeedbackServiceImpTest_testFillFeedbackFormForDistributor.ic" NAME="FeedbackServiceImpTest.testFillFeedbackFormForDistributor Coverage Results" MODIFIED="1713267637968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.complainservice.serviceImp.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$StockAvailableServiceImpTest_testViewXStock2.ic" NAME="StockAvailableServiceImpTest.testViewXStock2 Coverage Results" MODIFIED="1713345887411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.inventoryservice.serviceImp.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$OrderHistoryServiceImpDiffblueTest.ic" NAME="OrderHistoryServiceImpDiffblueTest Coverage Results" MODIFIED="1713260447812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.inventoryservice.serviceImp.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$StockAvailableServiceImpTest.ic" NAME="StockAvailableServiceImpTest Coverage Results" MODIFIED="1713345193752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.inventoryservice.serviceImp.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$FeedbackControllerTest.ic" NAME="FeedbackControllerTest Coverage Results" MODIFIED="1713265376761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.complainservice.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$StockAvailableServiceImpDiffblueTest.ic" NAME="StockAvailableServiceImpTest Coverage Results" MODIFIED="1713347731395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.inventoryservice.serviceImp.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$serviceImp_in_inventoryservice.ic" NAME="serviceImp in inventoryservice Coverage Results" MODIFIED="1713344565200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$InventoryRequestServiceImpTest_testRaiseInventoryRequest_Success.ic" NAME="InventoryRequestServiceImpTest.testRaiseInventoryRequest_Success Coverage Results" MODIFIED="1713262853961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.dms.seviceImp.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$InventoryRequestControllerDiffblueTest.ic" NAME="InventoryRequestControllerDiffblueTest Coverage Results" MODIFIED="1713261070649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.dms.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$InventoryServiceImplDiffblueTest.ic" NAME="InventoryServiceImplDiffblueTest Coverage Results" MODIFIED="1713260417337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.inventoryservice.serviceImp.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/dms_till_23rdmarch$InventoryserviceApplication.ic" NAME="InventoryserviceApplication Coverage Results" MODIFIED="1712314569686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.inventoryservice.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$RetailerConnectionDiffblueTest.ic" NAME="RetailerConnectionDiffblueTest Coverage Results" MODIFIED="1713260649950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.dms.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$UserServiceApplication.ic" NAME="UserServiceApplication Coverage Results" MODIFIED="1712688188211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.dms.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$StockControllerTest_testViewAllAvailableStock.ic" NAME="StockControllerTest.testViewAllAvailableStock Coverage Results" MODIFIED="1713259939903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.inventoryservice.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$UserInfoDiffblueTest.ic" NAME="UserInfoDiffblueTest Coverage Results" MODIFIED="1713348447366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.dms.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$controller_in_inventoryservice.ic" NAME="controller in inventoryservice Coverage Results" MODIFIED="1712919927147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$UserInfoServiceImplTest.ic" NAME="UserInfoServiceImplTest Coverage Results" MODIFIED="1712765952102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.dms.serviceImp.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$ApproveRequestControllerTest.ic" NAME="ApproveRequestControllerTest Coverage Results" MODIFIED="1713343617045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.inventoryservice.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$RetailerConnectionImpTest.ic" NAME="RetailerConnectionImpTest Coverage Results" MODIFIED="1712766311770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.dms.serviceImp.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$ComplainControllerDiffblueTest.ic" NAME="ComplainControllerDiffblueTest Coverage Results" MODIFIED="1712774001101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.complainservice.Controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$ComplainServiceImpDiffblueTest.ic" NAME="ComplainServiceImpDiffblueTest Coverage Results" MODIFIED="1712901623213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.complainservice.ServiceImp.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$inventoryservice_in_inventoryservice.ic" NAME="inventoryservice in inventoryservice Coverage Results" MODIFIED="1713346270190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$RetailerConnectionImpDiffblueTest.ic" NAME="RetailerConnectionImpDiffblueTest Coverage Results" MODIFIED="1712686865341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.dms.serviceImp.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$InventoryControllerTest.ic" NAME="InventoryControllerTest Coverage Results" MODIFIED="1713344480162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.inventoryservice.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$InventoryControllerTest_givenValidInventoryData_whenAddInventory_thenSuccess.ic" NAME="InventoryControllerTest.givenValidInventoryData_whenAddInventory_thenSuccess Coverage Results" MODIFIED="1713259361762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.inventoryservice.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$LocationDiffblueTest.ic" NAME="LocationDiffblueTest Coverage Results" MODIFIED="1713260633846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.dms.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$controller_in_complainservice.ic" NAME="controller in complainservice Coverage Results" MODIFIED="1713341655790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$complainservice_in_complainservice.ic" NAME="complainservice in complainservice Coverage Results" MODIFIED="1713341679714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$All_in_complainservice.ic" NAME="All in complainservice Coverage Results" MODIFIED="1713343285559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.complainservice.serviceImp.*</FILTER>
+      <FILTER>com.impetus.complainservice.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$ForgotPasswordImpDiffblueTest.ic" NAME="ForgotPasswordImpTest Coverage Results" MODIFIED="1712687658814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.dms.serviceImp.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$serviceImp_in_userservice.ic" NAME="serviceImp in userservice Coverage Results" MODIFIED="1713348537749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$com_impetus_complainservice_Controller_in_complainservice.ic" NAME="com.impetus.complainservice.Controller in complainservice Coverage Results" MODIFIED="1712773864841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.complainservice.Controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$ForgotPasswordTest.ic" NAME="ForgotPasswordTest Coverage Results" MODIFIED="1713260602619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.dms.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$ComplainServiceImpTest.ic" NAME="ComplainServiceImpTest Coverage Results" MODIFIED="1713343206706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.complainservice.serviceImp.*</FILTER>
+      <FILTER>com.impetus.complainservice.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$UserserviceApplicationTests.ic" NAME="UserserviceApplicationTests Coverage Results" MODIFIED="1713260859715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.dms.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$RoleInfoServiceImpDiffblueTest.ic" NAME="RoleInfoServiceImpDiffblueTest Coverage Results" MODIFIED="1713348729068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.dms.serviceImp.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$ComplainserviceApplicationTests.ic" NAME="ComplainserviceApplicationTests Coverage Results" MODIFIED="1712773826440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.complainservice.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$FeedbackControllerTest_testGiveConnectionFeedback_Success.ic" NAME="FeedbackControllerTest.testGiveConnectionFeedback_Success Coverage Results" MODIFIED="1713164880080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.complainservice.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$ComplainServiceImpTest_testFillComplainForm.ic" NAME="ComplainServiceImpTest.testFillComplainForm Coverage Results" MODIFIED="1713338616918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.complainservice.serviceImp.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$ApproveRequestControllerDiffblueTest.ic" NAME="ApproveRequestControllerDiffblueTest Coverage Results" MODIFIED="1713256642111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.inventoryservice.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$InventoryserviceApplicationTests.ic" NAME="InventoryserviceApplicationTests Coverage Results" MODIFIED="1712689988344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.inventoryservice.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$InventoryControllerTest_testAddInventory_Success.ic" NAME="InventoryControllerTest.testAddInventory_Success Coverage Results" MODIFIED="1713257856235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.inventoryservice.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$ForgotPasswordImpTest.ic" NAME="ForgotPasswordImpTest Coverage Results" MODIFIED="1713260836896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.dms.serviceImp.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$serviceImp_in_complainservice.ic" NAME="serviceImp in complainservice Coverage Results" MODIFIED="1713256168082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$InventoryRequestServiceImpTest.ic" NAME="InventoryRequestServiceImpTest Coverage Results" MODIFIED="1713263144648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.dms.seviceImp.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$FeedbackServiceImpTest_testFillFeedbackForm_WithUserRoleAsDistributor.ic" NAME="FeedbackServiceImpTest.testFillFeedbackForm_WithUserRoleAsDistributor Coverage Results" MODIFIED="1713335907900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.impetus.complainservice.serviceImp.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DMS_Testing_Phase_5$All_in_inventoryservice.ic" NAME="All in inventoryservice Coverage Results" MODIFIED="1713348291954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.inventoryservice.serviceImp.*</FILTER>
+      <FILTER>com.example.inventoryservice.controller.*</FILTER>
+    </SUITE>
+  </component>
+</project>

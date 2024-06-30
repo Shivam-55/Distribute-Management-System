@@ -1,0 +1,9 @@
+
+	java:S112@"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8öô××ì1J$47d5313c-c238-4cce-92d1-3421114a16c4
+	java:S112["FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8øô××ì1J$6ddf7478-89d3-425a-88c5-4b4a757561bf
+“
+java:S11926"KDefine a constant instead of duplicating this literal "PostOffice" 4 times.(±õ«£ıÿÿÿÿ8úô××ì1J$f53278fa-a70c-4941-9bc8-57e227f9c703
+‘
+java:S1128"NRemove this unused import 'com.impetus.dms.Exception.InvalidPinCodeException'.(×åşô8£˜¦¡ì1J$d0f996c1-6e19-416e-9143-762130a9f86d
+z
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8£˜¦¡ì1J$3716156a-8c85-45aa-8741-0f20e8314be9

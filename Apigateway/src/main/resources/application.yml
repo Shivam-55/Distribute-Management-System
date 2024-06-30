@@ -1,0 +1,124 @@
+server:
+  port: 8777
+  servlet:
+    context-path: /
+
+spring:
+  application:
+    name: API-Gateway
+  
+  cloud:
+    gateway:
+      routes:
+        - id: PROFILE-MANAGEMENT-SERVICE
+          uri: lb://PROFILE-MANAGEMENT-SERVICE
+          predicates:
+            - Path=/user/**, /location/**, /user/connection/{retailerId}
+
+        - id: REQUEST-MANAGEMENT-SERVICE
+          uri: lb://REQUEST-MANAGEMENT-SERVICE
+          predicates:
+            - Path=/inventory/request/**
+
+        - id: INVENTORY-MANAGEMENT-SERVICE
+          uri: lb://INVENTORY-MANAGEMENT-SERVICE
+          predicates:
+            - Path=/stock/**, /inventory/**, /request/inProgress
+
+        - id: COMPLAIN-SERVICE
+          uri: lb://COMPLAIN-SERVICE
+          predicates:
+            - Path=/connection/**
+
+logging:
+  level:
+    org.springframework.web.client.RestTemplate: DEBUG
+
+
+eureka:
+  instance:
+    prefer-ip-address: true
+
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      default-zone: http://localhost:8761/eureka
+
+
+
+secret-key: afafasfafafasfasfasfafacasdasfasxASFACASDFACASDFASFASFDAFASFASDAADSCSDFADCVSGCFVADXCcadwavfsfarvf
+
+---
+spring:
+  profiles:
+    active:
+      - ${ACTIVE_SPRING_PROFILE:dev}
+
+
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+  instance:
+    hostname: localhost
+
+springdoc:
+  enable-native-support: true
+  api-docs:
+    enabled: true
+  swagger-ui:
+    enabled: true
+    path: /swagger-ui.html
+    config-url: /v3/api-docs/swagger-config
+    urls:
+      - url: /v3/api-docs
+        name: API Gateway Service
+      - url: /complain-service/v3/api-docs
+        name: complain service
+      - url: /inventory-management-service/v3/api-docs
+        name: inventory service
+      - url: /request-management-service/v3/api-docs
+        name: request management service
+      - url: /profile-management-service/v3/api-docs
+        name: profile management service
+
+
+---
+spring:
+  config:
+    activate:
+      on-profile: local
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+---
+
+spring:
+  config:
+    activate:
+      on-profile: dev
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+---
+spring:
+  config:
+    activate:
+      on-profile: prod
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+
+springdoc:
+  swagger-ui:
+    enabled: false
+  api-docs:
+    enabled: false

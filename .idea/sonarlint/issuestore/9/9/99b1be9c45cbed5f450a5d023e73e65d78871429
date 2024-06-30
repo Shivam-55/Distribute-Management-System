@@ -1,0 +1,15 @@
+
+z
+java:S2629p"7Use the built-in formatting to construct this argument.(œ‡¶Ó8ÅÚ¡«Ï1J$32728d39-1b6a-4b47-abb9-4e8034e296ce
+~
+java:S6813#"BRemove this field injection and use constructor injection instead.(ÍÊƒﬁJ$0d729028-f916-4eba-b300-796997175a43
+h
+java:S1602N",Remove useless curly braces around statement(·¶∏ÀJ$3868a796-f402-43e2-bc41-c019006dd481
+t
+java:S1874R"8Remove this use of "getRawStatusCode"; it is deprecated.(åô≈¡J$439f3b0c-f27e-4d57-9320-d3c831d41f46
+{
+java:S1874v"8Remove this use of "getRawStatusCode"; it is deprecated.(åô≈¡8ïÛ¡«Ï1J$ed03d3a4-2086-419c-a858-b80bddbff61a
+è
+java:S1128"LRemove this unused import 'com.example.inventoryservice.Entities.Inventory'.(ó∞§≥8óÛ¡«Ï1J$17136858-2250-420c-8210-86e3036977f1
+è
+java:S1128	"LRemove this unused import 'com.example.inventoryservice.RequestDto.UserDto'.(¡…õÆ8òÛ¡«Ï1J$7557835c-8d5a-4b6c-a104-c4bafaaed396

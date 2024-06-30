@@ -1,0 +1,6 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÄÍÞ…ÿÿÿÿÿJ$ca3f599d-d0c0-4663-a1df-3a904caca5f3
+‚
+java:S3457*"AFormat specifiers should be used instead of string concatenation.(õÁÚßÿÿÿÿÿJ$84b2df28-4c89-4010-9496-8c528cdb29ca
+’
+java:S1128"QRemove this unused import 'com.impetus.dms.Dto.inventorydto.InventoryRequestDto'.(ò‰¿¢ÿÿÿÿÿJ$bfdcd9ec-908e-417d-a0cb-b47ba682c86a

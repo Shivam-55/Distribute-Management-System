@@ -1,0 +1,7 @@
+
+Š
+java:S1192%"GDefine a constant instead of duplicating this literal "userId" 3 times.(§¿¾í8°åÛ°ì1J$f616975a-9866-452f-83ef-6ed7f292e94b
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(é£™ÇJ$206d8a28-82e6-44d7-9f62-99c803ddf23e
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$5fa81e7b-ea41-4a29-b640-bba07a1a8091
+w	java:S125Z"<This block of commented-out lines of code should be removed.(«ßÙþJ$27236a18-bbf2-4c98-840e-d67e0cc0bff8

@@ -1,0 +1,13 @@
+
+†	java:S112O"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$0b6014c0-e483-47dc-8abb-3cb2b866b7c3
+†	java:S112W"FDefine and throw a dedicated exception instead of using a generic one.(Ê“ÅıÿÿÿÿJ$2b4de8c9-a265-491f-a06f-d37a28268d4f
+–
+java:S1104"UMake secretKey a static final constant or non-public and provide accessors if needed.(ä¥±êøÿÿÿÿJ$7944b933-3e29-414b-9583-c3e2bbd7801e
+p
+java:S1444"/Make this "public static secretKey" field final(ä¥±êøÿÿÿÿJ$6c51c377-d5de-442e-ae7e-1b9a0b1615b0
+v
+java:S1118":Add a private constructor to hide the implicit public one.(ÿ¶£ÎJ$17e4c871-80f7-470a-8b38-3e39972f217c
+»
+java:S1130"Remove the declaration of thrown exception 'java.security.NoSuchAlgorithmException', as it cannot be thrown from method's body.(›Õ ÄJ$d1422c36-210b-4d7f-aa67-4c39ded9a71e
+h
+java:S3329'"'Use a dynamically-generated, random IV.(–Ş¸ûÿÿÿÿJ$531dda23-e766-4752-88b3-0e09b7e18bcf

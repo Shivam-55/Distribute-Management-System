@@ -1,0 +1,26 @@
+
+š
+java:S1488["^Immediately return this expression instead of assigning it to the temporary variable "claims".(ñ²ˆJ$71fb29df-2658-46a9-9e4c-67837f3c45bf
+	java:S116"URename this field "SECRET_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ÷õ»J$26aba75a-9348-41bd-98df-e527339f4fde
+	java:S116 "]Rename this field "EXPIRATION_TIME_MS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­Ôñ üÿÿÿÿJ$cc28a77c-d2db-4edf-8c02-adef8ceda565
+b
+java:S1170 "!Make this final field static too.(­Ôñ üÿÿÿÿJ$e793b730-37d2-42ca-8b1a-119633e36831
+|	java:S125""<This block of commented-out lines of code should be removed.(¾Òª°úÿÿÿÿJ$77598e8e-09ef-4d80-b37d-1fe42546d8d2
+q
+java:S18745"5Remove this use of "setSigningKey"; it is deprecated.(ÑƒÅÙJ$dede2596-5438-4267-ae3e-a0bd1a6b0451
+}
+java:S1126:"AReplace this if-then-else statement by a single return statement.(ŞÏ‰¡J$5960a02e-b8db-4b80-bd79-518070b68192
+x
+java:S1874["5Remove this use of "setSigningKey"; it is deprecated.(ñ²ˆ8İÃš£ì1J$9c72649c-3a0d-48b0-a70d-b236c3f47404
+k	java:S106_"+Replace this use of System.out by a logger.(«„ÆúÿÿÿÿJ$42dfaf27-2b6f-457f-a39d-bb0a17f68fff
+r	java:S106j"+Replace this use of System.out by a logger.(¯ñ„”úÿÿÿÿ8ßÃš£ì1J$d4970921-2e83-4ae7-82a7-bae91cf02898
+r	java:S106k"+Replace this use of System.out by a logger.(©ªÂÀúÿÿÿÿ8àÃš£ì1J$a03119ea-7feb-4c9d-b8a0-00e80c714029
+ƒ	java:S125}"<This block of commented-out lines of code should be removed.(”ã§şÿÿÿÿ8âÃš£ì1J$0d02ac9c-977f-4c4c-bbcd-0e5f7eeee60f
+s
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿJ$92895ed3-cf1f-44ee-bc12-877f0d75c1f1
+z
+java:S1128"?Remove this unused import 'io.jsonwebtoken.SignatureAlgorithm'.(ç±«gJ$e55e55ef-e293-46d0-82e8-2cbd7316a352
+w
+java:S1068 "6Remove this unused "EXPIRATION_TIME_MS" private field.(­Ôñ üÿÿÿÿJ$cbea5eeb-e410-4e99-a5e4-7b84f831bca8
+v
+java:S1144i"3Remove this unused private "isTokenExpired" method.(°§Å£8çÃš£ì1J$57e894b8-ddca-4531-93a7-42c2c2f6e002

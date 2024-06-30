@@ -1,0 +1,9 @@
+
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$3872defd-7179-4302-9ad4-a336ef8f15de
+k	java:S106O"+Replace this use of System.out by a logger.(˜Š¿ÛüÿÿÿÿJ$1ff98a81-3c47-4e42-8953-63470ffbf3f8
+t
+java:S1874U"8Remove this use of "getRawStatusCode"; it is deprecated.(Œ™ÅÁJ$a25c0781-a301-416b-a197-1207b333ec96
+k	java:S106n"+Replace this use of System.out by a logger.(˜Š¿ÛüÿÿÿÿJ$591fa86b-5c77-41cf-88ac-4394ce35669b
+t
+java:S1874t"8Remove this use of "getRawStatusCode"; it is deprecated.(Œ™ÅÁJ$d608706f-96cf-47ac-ae67-c152e45e91cb

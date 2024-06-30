@@ -1,0 +1,10 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´þßÒJ$b0f61bf9-f1fe-406f-af88-8c8cc56ce78d
+„
+java:S2166
+"CRename this class to remove "Exception" or correct its inheritance.(õ¯ÜéøÿÿÿÿJ$1fcf0d12-b65d-4ab9-95d2-ec3d1994efa8
+{
+java:S1118
+":Add a private constructor to hide the implicit public one.(õ¯ÜéøÿÿÿÿJ$87ff2f4f-dea2-4c6b-80df-6937663bd041
+Œ
+java:S1130"KRemove the redundant 'java.io.IOException' thrown exception declaration(s).(¸ÈâðøÿÿÿÿJ$fdd0144e-58c1-4590-83e2-951379761cd5

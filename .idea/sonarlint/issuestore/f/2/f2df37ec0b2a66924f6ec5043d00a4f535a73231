@@ -1,0 +1,12 @@
+
+†	java:S112H"FDefine and throw a dedicated exception instead of using a generic one.(İ‘«ÍúÿÿÿÿJ$2f83a7fa-f4d5-4286-b0c8-4bf47e33ab2a
+	java:S112P"FDefine and throw a dedicated exception instead of using a generic one.(¡—ÙÛJ$88cbc221-9dae-447c-9bee-a27f06c83188
+š	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Æ¬éÿÿÿÿÿJ$9fd85388-8f11-46a1-885b-6c70f2076471
+v
+java:S1118":Add a private constructor to hide the implicit public one.(ÿ¶£ÎJ$e0e688d8-f0de-46aa-a731-ff4647104cf7
+»
+java:S1130"Remove the declaration of thrown exception 'java.security.NoSuchAlgorithmException', as it cannot be thrown from method's body.(›Õ ÄJ$be664d1c-8417-45e8-b45d-af9c082be4c3
+q
+java:S6437"6Revoke and change this password, as it is compromised.(Àˆò6J$2f01a7bd-ca4f-40a4-9e9a-73550998a8de
+h
+java:S3329!"'Use a dynamically-generated, random IV.(–Ş¸ûÿÿÿÿJ$73998009-fcb2-40ca-9496-c4db32dd83c1

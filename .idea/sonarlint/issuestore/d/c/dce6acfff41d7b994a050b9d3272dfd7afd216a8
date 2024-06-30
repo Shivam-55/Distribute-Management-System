@@ -1,0 +1,29 @@
+
+	java:S112š"FDefine and throw a dedicated exception instead of using a generic one.(ˆ·²Üùÿÿÿÿ8†î–ì1J$06293f30-5d91-421b-8e36-a269ac018a0b
+‰	java:S112´"FDefine and throw a dedicated exception instead of using a generic one.(ß…ºš8†î–ì1J$b5459411-19ed-42cc-99d9-ae17626944cb
+
+java:S1192w"FDefine a constant instead of duplicating this literal "admin" 3 times.(Ï—©Òüÿÿÿÿ8‰î–ì1J$1594a297-13d7-48b7-8535-f4ba198a6cc3
+
+java:S1192£"IDefine a constant instead of duplicating this literal "retailer" 5 times.(ƒ§Œ8‰î–ì1J$4023767b-f260-4e7c-87d2-6db06c40b620
+•
+java:S1192¡"LDefine a constant instead of duplicating this literal "distributor" 6 times.(³©ö÷ùÿÿÿÿ8‰î–ì1J$aacd8ad5-d618-4fd4-b525-bcd2db8875f7
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹éç8î–ì1J$1b39b2f6-b07d-4946-afba-44ce795f2e84
+…
+java:S6813'"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ëî–ì1J$a60e1e07-124a-42fb-82a7-02eaa0956011
+…
+java:S6813)"BRemove this field injection and use constructor injection instead.(êæÄŞ8Íî–ì1J$05dd187c-a1c1-482c-b323-ef7dbb1a8aab
+…
+java:S6813+"BRemove this field injection and use constructor injection instead.(êæÄŞ8Íî–ì1J$18f1160c-1d5e-4de5-85ec-a1bf3ae7f86a
+…
+java:S6813-"BRemove this field injection and use constructor injection instead.(êæÄŞ8Íî–ì1J$45d8ffc9-87b7-4a7b-9e4f-ed25b168d962
+…
+java:S6813/"BRemove this field injection and use constructor injection instead.(êæÄŞ8Íî–ì1J$ca8a1252-ad37-4135-a54f-14c873848c7d
+…
+java:S68131"BRemove this field injection and use constructor injection instead.(êæÄŞ8Íî–ì1J$9881156c-a077-4be9-906e-e8ba271d09e4
+r	java:S106O"+Replace this use of System.out by a logger.(¡­„›şÿÿÿÿ8Üî–ì1J$763225e2-7dc8-434e-a9b4-f345c444fcbc
+›
+java:S3776³"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Äõ§Ûüÿÿÿÿ8ëî–ì1J$a38b4eb0-c9cd-4aab-bc55-8f8576899798
+š
+java:S1128"WRemove this unused import 'org.springframework.cloud.client.loadbalancer.LoadBalanced'.(Éâ¦‡8‰ñ³ì1J$ad6e3909-2e6b-4f7b-bb80-ce73c0e92a95
+r
+java:S1144â".Remove this unused private "dtoToUser" method.(‰™°–8’ï–ì1J$3f4b2a32-5e26-49bc-a404-6dd2f138ba2f

@@ -1,0 +1,15 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äŒ¾ÿÿÿÿÿJ$94038b55-27b1-4400-8f26-ea6f6ef94189
+~
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄŞJ$8d3b10e4-d292-4325-b47a-4d2fe59522a0
+~
+java:S6813%"BRemove this field injection and use constructor injection instead.(êæÄŞJ$e2e4ef81-34ba-4129-9aee-86a0bd622c8d
+~
+java:S6813'"BRemove this field injection and use constructor injection instead.(êæÄŞJ$033d5880-9efb-4e18-9cc2-1adf570fded0
+~
+java:S6813)"BRemove this field injection and use constructor injection instead.(êæÄŞJ$41881e6a-431b-499a-bc91-ceb7d8470a5e
+~
+java:S6813+"BRemove this field injection and use constructor injection instead.(êæÄŞJ$315e4321-7222-4e71-b16f-6e7a05679a83
+~
+java:S6813-"BRemove this field injection and use constructor injection instead.(êæÄŞJ$f88db13e-91d7-47b5-95d3-3d1e8a4d7f01
+g	java:S106Â"+Replace this use of System.out by a logger.(®Ã»»J$0d60685d-db8c-4df8-9189-83b82086f62e

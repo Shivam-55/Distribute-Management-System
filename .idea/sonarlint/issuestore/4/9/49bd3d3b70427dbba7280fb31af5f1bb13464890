@@ -1,0 +1,6 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„Ñø¥J$b6f6abae-f508-44c3-b950-177b3fa964d0
+“	java:S116"XRename this field "DistributorId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ˆãÜJ$7596d45e-d58a-46d2-a475-dc24774ea232
+š	java:S116"ZRename this field "DistributorName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®‰ÒıÿÿÿÿJ$5bbef313-22aa-431c-9e5f-f2383c4648f3
+	java:S116"URename this field "RetailerId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÜŠZJ$1a7bd6fc-a5df-42e2-a19e-c9081e32109a
+—	java:S116"WRename this field "RetailerName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ıö…ùÿÿÿÿJ$f40bd2df-628b-4908-a4cc-7a222730fc25

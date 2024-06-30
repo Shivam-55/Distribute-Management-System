@@ -1,0 +1,11 @@
+
+
+java:S1192E"FDefine a constant instead of duplicating this literal "admin" 3 times.(ŞÒÊÍøÿÿÿÿ8§Â—ì1J$c3cbe207-86c5-4d85-ba5b-d2f7351b396b
+Œ
+java:S1192G"IDefine a constant instead of duplicating this literal "retailer" 3 times.(ïÿö”8¨Â—ì1J$6e4bbfbe-6446-4301-92e7-c938c63516f8
+”
+java:S1192F"LDefine a constant instead of duplicating this literal "distributor" 3 times.(ÊõÄÜúÿÿÿÿ8¨Â—ì1J$fe318630-fbe4-4df3-ac45-d33c4b5d78e7
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8®Â—ì1J$f0bbcf1c-700b-4690-b417-504d0b784cf0
+¥
+java:S3305"]Inject this field value directly into "securityWebFilterChain", the only method that uses it.(¸ñÓèüÿÿÿÿ8¯Â—ì1J$1d0e7872-11b1-4838-a752-30e1f1f6b70e

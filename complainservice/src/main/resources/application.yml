@@ -1,0 +1,52 @@
+
+
+server:
+  port : 8081
+  servlet:
+    context-path: /
+
+springdoc:
+  api-docs:
+    path: /complain-service/v3/api-docs
+  swagger-ui:
+    path: /complain-service/swagger-ui.html
+
+openapi:  # This should be nested under the springdoc section
+  service:
+    title: complain-service doc
+    version: 1.0.0
+    url: http://localhost:8777
+
+
+
+spring:
+  application:
+    name: COMPLAIN-SERVICE
+  datasource:
+    url: jdbc:mysql://localhost:3306/DMS
+    username: root
+    password: impetus
+    driver-class-name: com.mysql.cj.jdbc.Driver  # Corrected driver class name
+
+
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+
+
+  cloud:
+    compatibility-verifier:
+      enabled=false:
+eureka:
+  instance:
+    prefer-ip-address: true
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      default-zone: http://localhost:8761/eureka
+
+

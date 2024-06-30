@@ -1,0 +1,28 @@
+
+p
+java:S3740"/Provide the parametrized type for this generic.(™Ñç¶şÿÿÿÿJ$61e547b8-c5d3-47f2-b3d5-89a2609dc6a0
+k
+java:S3740"/Provide the parametrized type for this generic.(¡¹¤‘J$7626fb9b-0fd5-4efa-b158-5685b4a2488d
+k
+java:S3740:"/Provide the parametrized type for this generic.(òŠJ$0b8dd4fb-8e38-4f54-b5f7-e0ceab796ae9
+s
+java:S2629<"7Use the built-in formatting to construct this argument.(„¤¿ÇJ$b37b7427-72c8-4c2f-a2cf-47bbb8663925
+x
+java:S2629="7Use the built-in formatting to construct this argument.(˜Á…ÎùÿÿÿÿJ$3cd01260-b626-4993-8269-3a7e7280317c
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øÍà§J$c50d0c21-33ed-4998-ab11-0bae80d4a7ac
+z
+java:S18549"9Remove this useless assignment to local variable "field".(°É¿ØÿÿÿÿÿJ$17ba5f4b-7426-4d94-b1ba-4b37f32cb723
+v
+java:S1117%":Rename "logger" which hides the field declared at line 16.(Úƒó¶J$6a6b6779-0c61-4ba6-9632-8bba0a812cf5
+k
+java:S14819"*Remove this unused "field" local variable.(°É¿ØÿÿÿÿÿJ$8d6e1a32-2583-4383-9f82-4c1faaa202ee
+}
+java:S3457<"AFormat specifiers should be used instead of string concatenation.(„¤¿ÇJ$00eeb920-bf5b-4a33-938c-7b03816f6918
+‚
+java:S3457="AFormat specifiers should be used instead of string concatenation.(˜Á…ÎùÿÿÿÿJ$7910001a-7602-4549-8760-896351ce3f7c
+‚
+java:S3457A"AFormat specifiers should be used instead of string concatenation.(›²€ùÿÿÿÿJ$a335acd5-0691-45ad-abf6-4b97c7be821f
+f
+java:S1068"*Remove this unused "logger" private field.(‰â•ıJ$5a9f7343-e638-4af1-a976-4a112f98a8c7
+f
+java:S1068"*Remove this unused "aClass" private field.(÷“ÏªJ$c21aff21-c41e-4943-b10d-292a58afb336

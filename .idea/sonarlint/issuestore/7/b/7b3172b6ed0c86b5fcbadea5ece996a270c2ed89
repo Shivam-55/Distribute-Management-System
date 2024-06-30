@@ -1,0 +1,6 @@
+
+Ü
+java:S6539"ŸSplit this â€œMonster Classâ€ into smaller and more specialized ones to reduce its dependencies on other classes from 21 to the maximum authorized 20 or less.(¦ĞíJ$08f7b401-a662-4e6b-add1-00d1cc7bbab1
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾˜¡ûÿÿÿÿJ$03a9c14e-0f60-44f7-98ff-747341092f54
+
+java:S2166"CRename this class to remove "Exception" or correct its inheritance.(¦ĞíJ$35824011-68f5-42ae-a473-094c0a1ac218

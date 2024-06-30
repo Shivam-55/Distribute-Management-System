@@ -1,0 +1,7 @@
+
+„
+java:S2166	"CRename this class to remove "Exception" or correct its inheritance.(õ¯ÜéøÿÿÿÿJ$3d4825f2-2d32-4e35-bf22-d8f83224d541
+{
+java:S1118	":Add a private constructor to hide the implicit public one.(õ¯ÜéøÿÿÿÿJ$3caeee28-9d3b-426a-88e2-e10727ed5a3b
+Œ
+java:S1130"KRemove the redundant 'java.io.IOException' thrown exception declaration(s).(¸ÈâðøÿÿÿÿJ$2bf029c8-b7d2-441a-9a3b-24b98782b1a0

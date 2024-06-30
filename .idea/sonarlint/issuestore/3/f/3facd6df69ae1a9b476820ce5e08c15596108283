@@ -1,0 +1,7 @@
+
+n
+java:S1874"2Remove this use of "sslContext"; it is deprecated.(â¶—ØJ$b741cad9-6e54-4fdd-ae95-f67f7b2af872
+x
+java:S1128"<Remove this unused import 'io.netty.handler.ssl.SslContext'.(ÒðÓJ$35f00e9d-974f-4bd1-af73-da7366f96fa7
+x
+java:S1128"7Remove this unused import 'javax.net.ssl.SSLException'.(ûÉž¿ûÿÿÿÿJ$44183109-e2f2-42d1-8ded-279676a80cf4

@@ -1,0 +1,8 @@
+
+†	java:S112G"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$6d873f01-21e2-44f9-810a-2cb10f869800
+s
+java:S2629="7Use the built-in formatting to construct this argument.(åŒÍ’J$dde79b5b-e5e5-4c8a-9b33-c4519e48e2e0
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$1f533ef6-8563-4d6d-a749-e5f4c80accdd
+t
+java:S1874C"8Remove this use of "getRawStatusCode"; it is deprecated.(Œ™ÅÁJ$05ea7ebe-b4ed-4cec-afc2-805087069a09

@@ -1,0 +1,12 @@
+
+	java:S112R"FDefine and throw a dedicated exception instead of using a generic one.(Ê“Åıÿÿÿÿ8ÌŞò£ì1J$ede57207-8e97-47e3-82fe-f804ed2d7f44
+–
+java:S1104"UMake secretKey a static final constant or non-public and provide accessors if needed.(ä¥±êøÿÿÿÿJ$e607cf28-6149-45f4-8cf0-afd8156deced
+p
+java:S1444"/Make this "public static secretKey" field final(ä¥±êøÿÿÿÿJ$9f395bb4-f528-4655-ac68-ab119363ccbe
+{
+java:S1118":Add a private constructor to hide the implicit public one.(·š³¨ûÿÿÿÿJ$b0eab925-3ad7-477e-be7b-14b6266236e3
+o
+java:S3329&"'Use a dynamically-generated, random IV.(–Ş¸ûÿÿÿÿ8İŞò£ì1J$d85cba92-d364-4827-b4e2-80174c97d325
+š
+java:S6432="RUse a dynamically-generated initialization vector (IV) to avoid IV-key pair reuse.(¨¹îßûÿÿÿÿ8ßŞò£ì1J$13356046-fcc1-40da-9a08-66c158ef1b39

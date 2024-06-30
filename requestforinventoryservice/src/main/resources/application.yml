@@ -1,0 +1,48 @@
+server:
+  port: 8084
+  servlet:
+    context-path: /
+
+springdoc:
+  api-docs:
+    path: /request-management-service/v3/api-docs
+  swagger-ui:
+    path: /request-management-service/swagger-ui.html
+
+openapi:  # This should be nested under the springdoc section
+  service:
+    title: request-management-service doc
+    version: 1.0.0
+    url: http://localhost:8777
+
+spring:
+  application:
+    name: REQUEST-MANAGEMENT-SERVICE
+  datasource:
+    url: jdbc:mysql://localhost:3306/DMS
+    username: root
+    password: impetus
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+
+
+  jpa:
+    show-sql: true
+    generate-ddl: true
+    hibernate:
+      ddl-auto: update
+    properties:
+      dialect: org.hibernate.dialect.MySQL8Dialect
+      format_sql: true
+
+
+
+
+eureka:
+  instance:
+    prefer-ip-address: true
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      default-zone: http://localhost:8761/eureka

@@ -1,0 +1,17 @@
+
+s
+java:S2629@"7Use the built-in formatting to construct this argument.(åŒÍ’J$1871f0b3-6200-447f-b07c-845661fa059d
+z
+java:S2629b"7Use the built-in formatting to construct this argument.(Ïà¦î8Á½Çì1J$bc8fa0c8-70ab-4cba-8e07-40b1a55fbc2f
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$ad56dcc0-4421-4425-bbe3-911e363d27de
+t
+java:S1874F"8Remove this use of "getRawStatusCode"; it is deprecated.(Œ™ÅÁJ$4595226f-70f3-469d-9fa1-68d958e7dc5d
+n
+java:S1168N"+Return an empty collection instead of null.(¥¹ï8æÁ½Çì1J$edc5dd03-0379-463f-8fad-23e75d7e6b88
+t
+java:S1874h"8Remove this use of "getRawStatusCode"; it is deprecated.(Œ™ÅÁJ$56250914-3964-48b9-a18d-66b3ce681a1a
+—
+java:S1128"ORemove this unused import 'com.fasterxml.jackson.core.JsonProcessingException'.(ßÔïÇûÿÿÿÿ8êÁ½Çì1J$70788e02-3f92-420f-8faa-510729530695
+‹
+java:S1128	"HRemove this unused import 'com.fasterxml.jackson.databind.ObjectMapper'.(´‘¨™8êÁ½Çì1J$49e34e9b-1244-4dfd-8efa-08448d2b2365
